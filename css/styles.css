@@ -194,7 +194,11 @@ p {
   padding-top: 0;
   background-color: var(--title-header-color);
 }
-
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
 .team-card {
   margin-bottom: 30px;
 }
